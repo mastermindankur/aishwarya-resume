@@ -1,0 +1,55 @@
+h1,h2,h3{
+    color:#46143c
+}
+h1{
+    text-align: center;
+}
+
+
+body{
+    background-color:#b99650;
+}
+
+img
+{
+    width: 250px;
+    height: 250px;
+    border: 5px solid #582c4f;
+}
+
+#profile-summary
+{
+    font-size: x-large;
+    padding: 5px;
+    text-align:justify
+}
+
+.box
+{
+    border: 5px solid #582c4f;
+    padding: 5px;
+    margin: 5px;
+    background-color:#c7a4c7;
+    font-size: large;
+}
+
+.box2
+{
+    border: 5px solid #582c4f;
+    margin: 5px;
+    padding: 5px;
+    font-size: large;
+}
+
+.container
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-item {
+    flex: 1; /* Each item will take equal space */
+    /* Additional styling for items */
+  }
+
+
