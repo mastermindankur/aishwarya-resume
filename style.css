@@ -52,4 +52,17 @@ img
     /* Additional styling for items */
   }
 
+span
+{
+    color:#582c4f;
+    font-weight: bold;
+    
+}
+
+footer
+{
+color: white;
+padding: 10px;
+text-align: center;
+}
 
